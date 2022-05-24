@@ -1,0 +1,32 @@
+@relation jAudio
+
+@attribute 'MFCC Overall Standard Deviation0' numeric
+@attribute 'MFCC Overall Standard Deviation1' numeric
+@attribute 'MFCC Overall Standard Deviation2' numeric
+@attribute 'MFCC Overall Standard Deviation3' numeric
+@attribute 'MFCC Overall Standard Deviation4' numeric
+@attribute 'MFCC Overall Standard Deviation5' numeric
+@attribute 'MFCC Overall Standard Deviation6' numeric
+@attribute 'MFCC Overall Standard Deviation7' numeric
+@attribute 'MFCC Overall Standard Deviation8' numeric
+@attribute 'MFCC Overall Standard Deviation9' numeric
+@attribute 'MFCC Overall Standard Deviation10' numeric
+@attribute 'MFCC Overall Standard Deviation11' numeric
+@attribute 'MFCC Overall Standard Deviation12' numeric
+@attribute 'MFCC Overall Average0' numeric
+@attribute 'MFCC Overall Average1' numeric
+@attribute 'MFCC Overall Average2' numeric
+@attribute 'MFCC Overall Average3' numeric
+@attribute 'MFCC Overall Average4' numeric
+@attribute 'MFCC Overall Average5' numeric
+@attribute 'MFCC Overall Average6' numeric
+@attribute 'MFCC Overall Average7' numeric
+@attribute 'MFCC Overall Average8' numeric
+@attribute 'MFCC Overall Average9' numeric
+@attribute 'MFCC Overall Average10' numeric
+@attribute 'MFCC Overall Average11' numeric
+@attribute 'MFCC Overall Average12' numeric
+@attribute class {classical,hiphop,pop,rock,reggae,jazz}
+
+@data
+22.49,6.703,2.817,2.14,1.717,2.729,2.456,1.724,1.918,1.519,2.111,1.409,1.736,-104.7,11,-1.129,-0.8293,-1.231,2.136,1.657,1.864,-0.3,-0.7054,0.04297,-0.6685,-2.022,?
